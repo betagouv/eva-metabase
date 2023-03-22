@@ -1,6 +1,9 @@
 This dépot is the eva fork of the official metabase depot from scalingo.
 
-[original README](original_readme.md)
+The only difference is the readme file that we updated to indicate upgrade
+procedures here after.
+
+Here is the [original README](original_readme.md).
 
 ## Configuration
 ```bash
